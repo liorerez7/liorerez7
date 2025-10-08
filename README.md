@@ -80,23 +80,10 @@ My approach combines **clean architecture**, **attention to detail**, and a pass
 
 ---
 
-### 🎖️ Military Service
-**Non-Commissioned Officer (NCO)** – Oketz Combat Unit (2018–2021)  
-Led and trained 35 soldiers • Received an Outstanding Service Certificate
-
----
-
 ### 📫 Contact
 - **Email:** [liorerez6@gmail.com](mailto:liorerez6@gmail.com)  
 - **LinkedIn:** [liorerez100](https://www.linkedin.com/in/liorerez100)  
 - **Portfolio:** [liorerez.online](https://liorerez.online)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liorerez7&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liorerez7&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
