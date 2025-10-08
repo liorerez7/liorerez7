@@ -84,7 +84,3 @@ My approach combines **clean architecture**, **attention to detail**, and a pass
 - **Email:** [liorerez6@gmail.com](mailto:liorerez6@gmail.com)  
 - **LinkedIn:** [liorerez100](https://www.linkedin.com/in/liorerez100)  
 - **Portfolio:** [liorerez.online](https://liorerez.online)
-
----
-
-<p align="center">⭐ “Clean code, solid architecture, and measurable impact.” ⭐</p>
