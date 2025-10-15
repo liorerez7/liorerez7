@@ -56,7 +56,7 @@ My approach combines **clean architecture**, **attention to detail**, and a pass
 
 ---
 
-#### ☁️ [SkyDB – Cloud SQL Benchmarking Framework](https://github.com/liorerez7/sky-db)
+#### ☁️ [SkyDB – Cloud SQL Benchmarking Framework](https://github.com/liorerez7/SkyDB)
 > A cloud benchmarking framework that evaluates **MySQL** vs **PostgreSQL** performance on AWS RDS.  
 > Uploads SQL dumps, deploys both engines automatically, runs structured benchmark tests, and visualizes results.
 
